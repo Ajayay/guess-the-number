@@ -12,3 +12,4 @@ Reference: https://github.com/jonasschmedtmann/complete-javascript-course/tree/m
 2. Disabled the again button once the score is below zero so that user cannot click it.
 3. Reset th game once the score is below zero.
 4. Save the highscore once the player wins and when the game restarts.
+5. Demo : https://confident-goodall-d157cb.netlify.app/
