@@ -11,3 +11,4 @@ Added modal when the scores reaches zero.
 Disabled the again button once the score is below zero so that user cannot click it.
 Reset th game once the score is below zero.
 Save the highscore once the player wins and when the game restarts.
+demo : https://confident-goodall-d157cb.netlify.app/
