@@ -3,7 +3,7 @@
 //generating random number and initializing variable
 let generateRandomNumber = Math.random();
 let secretNumber = Number(Math.trunc(generateRandomNumber * 20) + 1);
-console.log(secretNumber);
+// console.log(secretNumber);
 let score = 20;
 let highscoreValue = 0;
 let message = document.querySelector('.message');
