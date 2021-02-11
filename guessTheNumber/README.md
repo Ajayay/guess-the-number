@@ -2,7 +2,7 @@
 
 1. This game is based on 90's theme.
 2. In this game the user has to guess the number between 1 to 20.
-3. This project was developed inorder to apply and learn in practise javascript's addEventlistner method.
+3. This project was developed inorder to apply and practise javascript's addEventlistner method.
 
 Reference: https://github.com/jonasschmedtmann/complete-javascript-course/tree/master/05-Guess-My-Number/final
 
